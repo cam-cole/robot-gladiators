@@ -134,8 +134,6 @@ var endGame = function() {
     window.alert("Thank you for playing Robot Gladiators! Come back soon!");
   }
 
-  //play again
-  startGame();
 }
 
 var shop = function() {
@@ -193,8 +191,6 @@ var shop = function() {
       break;
   }
 };
-
-  
 
 // start the game when the page loads
 startGame();
